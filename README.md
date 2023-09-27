@@ -1,6 +1,6 @@
 
 # Ayakkabı ve Giyim Mağazası Projesi
-<img src="../store/src/gif/gif.mp4"/>
+<img src="/src/gif/gif.gif"/>
 Bu proje, React-Redux Toolkit ve Tailwind CSS kullanılarak geliştirilmiş bir ayakkabı ve giyim mağazası uygulamasını içermektedir. Mağazanın temel özellikleri, giriş sayfası, ana kategori seçenekleri, ürün detayları, sepete ekleme, sepet yönetimi, beden ve renk seçimi gibi unsurları içerir.
 
 ## Başlarken
